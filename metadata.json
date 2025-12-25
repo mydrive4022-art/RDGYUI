@@ -1,0 +1,7 @@
+{
+  "name": "ClipClean AI",
+  "description": "An advanced AI-powered background remover for clipart and illustrations, featuring batch processing, edge refinement, and high-resolution transparency output.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
